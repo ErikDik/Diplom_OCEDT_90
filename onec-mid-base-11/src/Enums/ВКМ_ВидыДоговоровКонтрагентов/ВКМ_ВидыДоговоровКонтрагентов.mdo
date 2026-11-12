@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff4fd643-94e7-454b-9eeb-c75191aa9ca4">
+  <producedTypes>
+    <refType typeId="00a13f57-9e22-45fd-bb0f-23311cb8c2a6" valueTypeId="f9196f66-177d-44bd-a284-3f561d85abf7"/>
+    <listType typeId="4eeef4d3-fb6e-4b10-8f24-01ca8d94d094" valueTypeId="fd97ec71-cf96-4cf6-bf4a-b5e1b6d95515"/>
+    <managerType typeId="8c4cda47-7eb0-4a6b-ad1b-2f81f164d520" valueTypeId="5ed808ae-e598-43dc-82d3-5fcb3d417b2d"/>
+  </producedTypes>
+  <name>ВКМ_ВидыДоговоровКонтрагентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды договоров контрагентов.</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
